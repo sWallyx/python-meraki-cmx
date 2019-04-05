@@ -8,7 +8,7 @@ setup(
     keywords=['cisco', 'meraki', 'location', 'count', 'people', 'analytics'],
     classifiers=[],
     install_requires=[
-    	'flask',
+    	'Flask',
     	'flask-jsonpify',
     	'flask-sqlalchemy',
     	'flask-restful',
