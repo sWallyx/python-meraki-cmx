@@ -16,6 +16,7 @@ def hello():
 class Events(Resource):
 	def post(self):
 		print (self);
+		return '8edf4ae18d782e5ac90512bc7db3850038879397'
 
 	def get(self):
 		return jsonify({'text':'Hello World!'})
