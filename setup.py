@@ -11,7 +11,7 @@ setup(
     	'flask',
     	'flask-jsonpify',
     	'flask-sqlalchemy',
-    	'flask-restful'.
+    	'flask-restful',
     	'flask-cors'
     ],
     setup_requires=[],
