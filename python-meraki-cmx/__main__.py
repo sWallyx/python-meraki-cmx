@@ -30,4 +30,4 @@ api.add_resource(Events, '/events')
 api.add_resource(Events_Info, '/events/<events_info>')
 
 if __name__ == '__main__':
-	app.run(port=5002)
+	app.run(host='0.0.0.0',port=5002)
