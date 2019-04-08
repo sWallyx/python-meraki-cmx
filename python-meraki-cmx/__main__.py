@@ -19,7 +19,7 @@ class Events(Resource):
 		return '8edf4ae18d782e5ac90512bc7db3850038879397'
 
 	def get(self):
-		return jsonify({'text':'Hello World!'})
+		return '8edf4ae18d782e5ac90512bc7db3850038879397'
 
 class Events_Info(Resource):
 	def post(self, events_info):
