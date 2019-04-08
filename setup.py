@@ -12,7 +12,9 @@ setup(
     	'flask-jsonpify',
     	'flask-sqlalchemy',
     	'flask-restful',
-    	'flask-cors'
+    	'flask-cors',
+	'pprint',
+	'pymongo'
     ],
     setup_requires=[],
     tests_require=[],

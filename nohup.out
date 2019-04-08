@@ -1,0 +1,330 @@
+ * Serving Flask app "__main__" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5002/ (Press CTRL+C to quit)
+209.206.58.50 - - [08/Apr/2019 14:14:34] "POST / HTTP/1.1" 200 -
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+ * Serving Flask app "__main__" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5002/ (Press CTRL+C to quit)
+209.206.58.50 - - [08/Apr/2019 14:16:37] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:17:01] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:17:26] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:17:38] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:18:13] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:18:26] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:18:55] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:19:05] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:19:22] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:19:53] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:20:23] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:20:38] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:20:58] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:21:22] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:21:54] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:22:14] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:22:27] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:23:03] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:23:32] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:23:45] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:23:59] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:24:29] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:25:05] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:25:08] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:25:11] "POST / HTTP/1.1" 200 -
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: '209.206.58.50 - - [08/Apr/2019 14:25:27] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:26:34] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:26:38] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:26:42] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:27:19] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:28:03] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:28:07] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:28:14] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:29:00] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:29:28] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:29:31] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:29:49] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:30:25] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:30:57] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:31:04] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:31:25] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:31:30] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:32:30] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:32:36] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:33:09] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:33:12] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:33:57] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:34:11] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:34:41] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:34:42] "POST / HTTP/1.1" 200 -
+, u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetooth Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+WiFi Devices Seen
+---- SAVING CMX DATA ----
+('Received POST from ', '209.206.58.50')
+('secret verified: ', u'nosfnoqf3276293r')
+('version verified: ', u'2.0')
+Bluetoo209.206.58.50 - - [08/Apr/2019 14:35:26] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:35:39] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:36:12] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:36:13] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:36:55] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:37:02] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:37:11] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:37:51] "POST / HTTP/1.1" 200 -
+209.206.58.50 - - [08/Apr/2019 14:38:25] "POST / HTTP/1.1" 200 -

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# coding=utf-8
 from pprint import pprint
 from flask import Flask, request
 from flask_cors import CORS, cross_origin
@@ -5,6 +7,8 @@ from flask_restful import Resource, Api
 import json
 from flask_jsonpify import jsonify
 import sys, getopt
+import pymongo
+import ast
 
 app = Flask(__name__)
 api = Api(app)
@@ -17,7 +21,17 @@ CORS(app)
 def save_data(data):
     print("---- SAVING CMX DATA ----")
     # CHANGE ME - send 'data' to a database or storage system
-    pprint(data, indent=1)
+    #pprint(data, indent=1)
+    parsed = json.dumps(data)
+    #print parsed
+    connection = pymongo.MongoClient('mongodb://localhost')
+    col = connection.locations.events
+    col.insert(json.loads(parsed))
+    #parsed = json.loads(data)
+
+    #for item in parsed:
+        #record1.insert(item)
+        #print item
 
 @app.route('/', methods=['GET'])
 def get_validator():
