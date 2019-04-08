@@ -7,6 +7,8 @@ from flask_jsonpify import jsonify
 app = Flask(__name__)
 api = Api(app)
 
+validator = '8edf4ae18d782e5ac90512bc7db3850038879397'
+
 CORS(app)
 
 @app.route("/")
@@ -16,10 +18,10 @@ def hello():
 class Events(Resource):
 	def post(self):
 		print (self);
-		return '8edf4ae18d782e5ac90512bc7db3850038879397'
+		return validator
 
 	def get(self):
-		return '8edf4ae18d782e5ac90512bc7db3850038879397'
+		return jsonify({"result":validator})
 
 class Events_Info(Resource):
 	def post(self, events_info):
