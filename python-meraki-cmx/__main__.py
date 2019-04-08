@@ -1,7 +1,7 @@
 from flask import Flask, request
 from flask_cors import CORS, cross_origin
 from flask_restful import Resource, Api
-from json import dumps
+import json
 from flask_jsonpify import jsonify
 
 app = Flask(__name__)
@@ -11,9 +11,10 @@ validator = '8edf4ae18d782e5ac90512bc7db3850038879397'
 
 CORS(app)
 
-@app.route("/")
-def hello():
-	return jsonify({'text':'Hello World!'})
+@app.route('/', methods=['GET'])
+def get_validator():
+    print("validator sent to: ",request.environ['REMOTE_ADDR'])
+    return validator
 
 class Events(Resource):
 	def post(self):
@@ -21,7 +22,8 @@ class Events(Resource):
 		return validator
 
 	def get(self):
-		return jsonify({"result":validator})
+		print("validator sent to: ",request.environ['REMOTE_ADDR'])
+    		return validator
 
 class Events_Info(Resource):
 	def post(self, events_info):
